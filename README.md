@@ -8,6 +8,17 @@ ContactHub helps users organize and manage their contacts through a clean, moder
 
 [View Live Website](https://sandy-mohamed.github.io/ContactHub-Contact-Manager/)
 
+## 📸 Screenshots
+
+### Contact Dashboard
+![ContactHub main dashboard](screenshots/01-dashboard.jpg)
+
+### Add New Contact
+![Add new contact form](screenshots/02-add-contact.jpg)
+
+### Contact Details
+![Add contact details: group, notes, favorite and emergency](screenshots/03-add-contact-details.jpg)
+
 ## ✨ Features
 
 - Add and manage contacts
